@@ -65,7 +65,7 @@ Dans l'onglet `Resume`, on peux choisir une action à faire lorsque qu'on met le
 
 ## Plotter le plot
 
-Ouvrir le menu de l'Axidraw, et cliquer sur `Apply` dans l'onglet `Plotter` pour plotter sans différencier les calques.
+Ouvrir le menu de l'Axidraw, et cliquer sur `Apply` dans l'onglet `Plotter` pour plotter sans différencier les calques. L'Axidraw plottera alors tous les calques visibles.
 
 ![screen d'Inkscape](./images/screen2.png)
 
@@ -83,4 +83,4 @@ Ensuite, ouvrir l'onglet `Layers`, et choisir quel numéro de calque on veux plo
 
 Le [guide de l'extension Axidraw pour Inkscape](https://www.manualslib.com/manual/1235134/Evil-Mad-Scientist-Axidraw.html).
 
-
+Une [vidéo qui explique comment utiliser l'extension](https://www.youtube.com/watch?v=r5mhw8-nrg0).
