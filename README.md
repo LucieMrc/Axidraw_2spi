@@ -1,4 +1,5 @@
 # 🚧🚧 Axidraw_2spi 🚧🚧
+*[english version](https://github.com/LucieMrc/Axidraw_sp33d)*
 
 **Ou comment utiliser plus ou moins en autonomie l'Axidraw avec Inkscape et un .svg.**
 
