@@ -50,6 +50,10 @@ Dans l'onglet `Options`, on peux choisir différents réglages, comme la vitesse
 
 ![screen d'Inkscape](./images/screen7.png)
 
+Il est important de s'assurer qu'on a choisit le bon modèle d'Axidraw dans la partie `Config`, pour avoir le bon format de plot : ici l'Axidraw A3 pour être sûr qu'on trace en A3
+
+![screen d'Inkscape](./images/screen10.png)
+
 Dans l'onglet `Manual`, on peux choisir une action physique executée par l'Axidraw quand on clique sur `Apply`.
 
 ![screen d'Inkscape](./images/screen4.png)
