@@ -5,6 +5,7 @@
 
 Prérequis : être à l'atelier num, avoir installé [Inkscape](https://inkscape.org) et [l'extension Axidraw](https://wiki.evilmadscientist.com/Axidraw_Software_Installation).
 
+!['illu''](./images/imageAxidraw.jpg)
 
 ## Mise en place
 
