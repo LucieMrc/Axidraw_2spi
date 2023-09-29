@@ -1,7 +1,7 @@
 # 🚧🚧 Axidraw_2spi 🚧🚧
 *[english version](https://github.com/LucieMrc/Axidraw_sp33d)*
 
-**Ou comment utiliser plus ou moins en autonomie l'Axidraw avec Inkscape et un .svg.**
+**Ou comment utiliser plus ou moins en autonomie l'Axidraw avec Inkscape (ou avec Saxi) et un .svg.**
 
 Prérequis : être à l'atelier num, avoir installé [Inkscape](https://inkscape.org) et [l'extension Axidraw](https://wiki.evilmadscientist.com/Axidraw_Software_Installation).
 
@@ -85,8 +85,18 @@ Ensuite, ouvrir l'onglet `Layers`, et choisir quel numéro de calque on veux plo
 
 ![screen d'Inkscape](./images/screen8.png)
 
+# Utiliser Saxi
+Pour imprimer avec [saxi](https://github.com/nornagon/saxi), il suffit d'ouvrir le navigateur de l'ordinateur, et ouvrir la page "localhost:9080", puis de drag and drop le fichier .svg sur la page.
+
+La taille de l'image s'adapte automatiquement à la taille du papier (impossible de resizer, on peux uniquement modifier la taille des marges et l'image sera centrée entre ces marges).
+
+![screen de Saxi](./images/saxi.png)
+
+*(image : [le github de saxi](https://github.com/nornagon/saxi))*
+
 # Pour aller plus loin
 
 Le [guide de l'extension Axidraw pour Inkscape](https://www.manualslib.com/manual/1235134/Evil-Mad-Scientist-Axidraw.html).
 
 Une [vidéo qui explique comment utiliser l'extension](https://www.youtube.com/watch?v=r5mhw8-nrg0).
+
